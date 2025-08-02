@@ -23,3 +23,7 @@ Exemplo:
 - Resposta: [0, 1] (porque 2 + 7 = 9)
 
 ## Como rodar
+1. Abra o Visual Studio 2022
+2. Clique em "Open a project or solution"
+3. Selecione o arquivo `TwoSum.cs`
+4. Aperte F5 ou clique no botão "Start" (▶️)
