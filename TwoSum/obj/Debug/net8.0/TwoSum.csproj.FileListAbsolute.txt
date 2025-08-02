@@ -1,0 +1,14 @@
+C:\TwoSum\TwoSum\bin\Debug\net8.0\TwoSum.exe
+C:\TwoSum\TwoSum\bin\Debug\net8.0\TwoSum.deps.json
+C:\TwoSum\TwoSum\bin\Debug\net8.0\TwoSum.runtimeconfig.json
+C:\TwoSum\TwoSum\bin\Debug\net8.0\TwoSum.dll
+C:\TwoSum\TwoSum\bin\Debug\net8.0\TwoSum.pdb
+C:\TwoSum\TwoSum\obj\Debug\net8.0\TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\TwoSum\TwoSum\obj\Debug\net8.0\TwoSum.AssemblyInfoInputs.cache
+C:\TwoSum\TwoSum\obj\Debug\net8.0\TwoSum.AssemblyInfo.cs
+C:\TwoSum\TwoSum\obj\Debug\net8.0\TwoSum.csproj.CoreCompileInputs.cache
+C:\TwoSum\TwoSum\obj\Debug\net8.0\TwoSum.dll
+C:\TwoSum\TwoSum\obj\Debug\net8.0\refint\TwoSum.dll
+C:\TwoSum\TwoSum\obj\Debug\net8.0\TwoSum.pdb
+C:\TwoSum\TwoSum\obj\Debug\net8.0\TwoSum.genruntimeconfig.cache
+C:\TwoSum\TwoSum\obj\Debug\net8.0\ref\TwoSum.dll
